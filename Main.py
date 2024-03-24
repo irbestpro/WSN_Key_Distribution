@@ -8,10 +8,7 @@ Base Paper: https://arxiv.org/pdf/1901.07314.pdf
 '''
 
 from gekko import GEKKO
-
 import numpy as np
-import math
-
 import warnings
 warnings.filterwarnings("ignore")
 
